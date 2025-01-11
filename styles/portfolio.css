@@ -1,0 +1,35 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-variation-settings:
+    "wdth" 100;
+    .dark2{color: #474747}
+} 
+nav ul {display: flex;align-items: center;}
+.text-primary{color: #FD6E0A;}
+nav ul li {list-style: none; 
+margin-right: 51px;}
+nav li a {text-decoration: none;}
+nav{display: flex;
+align-items: center;
+justify-content: space-between;
+/* margin: 50px; */
+
+}
+.button2{
+background-color: #FD6E0A;
+font-weight: bold;
+color: white;
+border-radius: 5px;
+padding: 3px 18px;
+border: 1px;
+
+
+
+}
+
+
+
