@@ -30,6 +30,21 @@ border: 1px;
 
 
 }
-
-
-
+.hedder{
+    background-image: url(../images/developer.png),url(../images/header_bg.png); background-repeat: no-repeat; background-position: top left,bottom right;
+}
+/* banner */
+.banner{display: flex; justify-content: space-between;}
+.banner-con{
+    max-width: 580px;
+}
+.banner-g{font-weight: 600
+; font-size: 30px;}
+.banner-t{
+    font-weight: bold;
+    font-size: 85px;
+}
+banner-dis{
+    font-size: 18px;
+    font-weight: lighter;
+}
