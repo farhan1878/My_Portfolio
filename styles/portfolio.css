@@ -92,3 +92,11 @@ margin: 30px;}
 .resume{display: flex;
 gap: 24px;}
 .button-gap{gap: 10px;}
+footer{display: flex;
+padding: 130px 230px;
+gap: 100px;}
+.footer-coloumn{
+    width: 50%;
+}
+footer input[type="text"]{height: 64px; border-radius: 5px;
+background-color: aliceblue;}
