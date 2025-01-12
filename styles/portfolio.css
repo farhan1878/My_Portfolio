@@ -77,6 +77,7 @@ margin-top: 160px;
     justify-content: space-around;
     
 }
+
 .item-description{
     font-weight: 600;
 }
@@ -87,3 +88,7 @@ margin-top: 160px;
 .skill{padding: 33px;
     box-shadow: 0px 6px 50px 0px #706f6f;
 margin: 30px;}
+/* resumi    */
+.resume{display: flex;
+gap: 24px;}
+.button-gap{gap: 10px;}
